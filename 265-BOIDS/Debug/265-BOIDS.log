@@ -1,3 +1,8 @@
-﻿  Source.cpp
+﻿  VehicleController.cpp
+  Vehicle.cpp
+d:\visual studio\265-boids\265-boids\vehicle.cpp(75): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Source.cpp
+d:\visual studio\265-boids\265-boids\source.cpp(43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
   265-BOIDS.vcxproj -> D:\Visual Studio\265-BOIDS\Debug\265-BOIDS.exe
   265-BOIDS.vcxproj -> D:\Visual Studio\265-BOIDS\Debug\265-BOIDS.pdb (Full PDB)
